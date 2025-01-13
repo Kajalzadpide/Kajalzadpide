@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm KajalZadpide</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
-<img align="right" alt="coding"width="200"src="![image](https://github.com/user-attachments/assets/e0f2914b-4f8b-4fde-b741-9af83dce494e)
-"/> </img>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/bf642518-b9f3-4fd1-87ba-9d6ae792fe4c"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalzadpide&label=Profile%20views&color=0e75b6&style=flat" alt="kajalzadpide" /> </p>
 
